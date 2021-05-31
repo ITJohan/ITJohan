@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Johan, a full stack .NET developer living in Oslo, Norway.
+### I'm Johan, a full stack web developer living in Oslo, Norway.
 
 <!--
 **ITJohan/ITJohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
